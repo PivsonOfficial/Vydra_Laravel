@@ -8,10 +8,10 @@
     <style>
         
         .obrazky {
-            background-color: white; /* Bílé pozadí kolem obrázků */
-            padding: 15px; /* Vnitřní okraje pro lepší vzhled */
-            margin: 2%; /* Vnější okraje pro oddělení obrázků */
-            border-radius: 5px; /* Zaoblené rohy */
+            background-color: white; 
+            padding: 15px; 
+            margin: 2%; 
+            border-radius: 5px; 
         }
         </style>
 </head>
@@ -19,7 +19,7 @@
 @include('components.navbar')
 
 <section style="margin-left:13%">
-<div class="container mt-4 " style="padding-top:8%">
+<div class="container mt-4 " style="padding-top:8%; padding-bottom:8%">
     <div class="row">
 
         <div class="obrazky col-md-2">

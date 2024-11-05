@@ -14,7 +14,6 @@
 
 
 
-
     
     <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
 
@@ -25,13 +24,13 @@
   </p>
 
   <div class="carousel-item active">
-    <img src="https://via.placeholder.com/800x400?text=Slide+3" class="d-block w-100" alt="Slide 1">
+    <img src="https://images8.alphacoders.com/532/532305.jpg" class="d-block w-100" alt="Slide 1">
   </div>
   <div class="carousel-item">
-    <img src="https://via.placeholder.com/800x400?text=Slide+3" class="d-block w-100" alt="Slide 2">
+    <img src="https://images5.alphacoders.com/532/532350.jpg" class="d-block w-100" alt="Slide 2">
   </div>
   <div class="carousel-item">
-    <img src="https://via.placeholder.com/800x400?text=Slide+3" class="d-block w-100" alt="Slide 3">
+    <img src="https://mmo-reference.com/img/1920x1200/_jeux//cube-world/wallpaper/04.jpg" class="d-block w-100" alt="Slide 3">
   </div>
 </div>
 

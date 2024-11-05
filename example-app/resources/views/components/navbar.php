@@ -11,7 +11,7 @@
 </head>
 <body>
 
-<nav class="navbar navbar-expand-lg fixed-top" style="background-color: #1D3461; height: 100px;">
+<nav class="navbar navbar-expand-lg fixed" style="background-color: #1D3461; height: 100px;">
   <div class="container">
     <a class="navbar-brand text-white font-weight-bold" style="font-size:40px" href="../">AbandonwareCZ</a>
 
