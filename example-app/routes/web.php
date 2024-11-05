@@ -8,7 +8,9 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
-
+Route::get('/hry', function () {
+    return view('hry');
+});
 Route::get('/products', [ProductController::class, 'index'])->name ('products.index');
 
 Route::get('/dashboard', function () {
