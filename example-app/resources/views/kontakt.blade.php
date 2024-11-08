@@ -5,16 +5,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kontakt</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_GOOGLE_MAPS_API_KEY"></script>
+
     
 </head>
 <body style="background-color:#141313">
 @include('components.navbar')
 
-<section class="container mt-4" style="padding-top:4%; padding-bottom:8%; margin-right:10%; color: white">
+<section class="container mt-4" style="padding-top:4%; padding-bottom:8%;  color: white">
 <h1>Kontakt</h1>
+<hr>
 <div class="row">
-<form style="margin-right:30%">
-  <div class="row">
+<form  class="col">
+  <div class="row" style="margin-bottom:15px;">
     <div class="col">
     <h3>Jméno:</h3>
       <input type="text" class="form-control" placeholder="Jméno" required >
@@ -26,7 +29,7 @@
   </div>
   <div>
   <h3>Email:</h3>
-  <div class="col">
+  <div class="col" style="margin-bottom:15px;">
       <input type="text" class="form-control" placeholder="neco@gmail.com" required>
     </div>
 
@@ -37,8 +40,11 @@
         Zde napište co máte na srdci.
     </div>
     </div>
+    <hr>
 </form>
-
+<div class="col">
+@include('map')
+</div>
 
 </div>
 
