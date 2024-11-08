@@ -11,7 +11,7 @@
 </head>
 <body>
 
-<footer class="footer fixed text-center " style="background-color: #1f487e; color: white; padding: 5px 0; ">
+<footer class="footer fixed text-center " style="background-color: #141313; color: white; padding: 5px 0; ">
   <div class="container">
     <p>&copy;  2024  AbandonwareCZ. Všechna práva vyhrazena.</p>
     <p>

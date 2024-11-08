@@ -11,11 +11,7 @@
 </head>
 <body>
    
-
-
-
-    
-    <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
+<div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
 
 <div class="carousel-inner position-relative">
 
@@ -62,7 +58,6 @@
     document.getElementById('carousel-caption').textContent = caption;
   }
 
-  // Automatická aktualizace popisků při přepínání
   document.getElementById('myCarousel').addEventListener('slide.bs.carousel', function (event) {
     const captions = ['Slide 1', 'Slide 2', 'Slide 3'];
     setCaption(captions[event.to]);
