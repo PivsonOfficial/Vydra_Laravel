@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mapa Chánova</title>
     <!-- API klíč vložte na místo YOUR_GOOGLE_MAPS_API_KEY -->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCG8Jf2Ew9QwqLuQR7yxwgplYSPpXOkLVA"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=ichtyl"></script>
     <style>
         /* Nastavte rozměry pro mapu */
         #map {
