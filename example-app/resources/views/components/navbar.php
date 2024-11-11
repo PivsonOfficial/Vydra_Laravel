@@ -25,7 +25,7 @@
           <a class="nav-link text-white btn btn-primary" href="../hry">KNIHOVNA</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white btn btn-primary" href="#">NOVINKY</a>
+          <a class="nav-link text-white btn btn-primary" href="../novinky">NOVINKY</a>
         </li>
         <li class="nav-item">
           <a class="nav-link text-white btn btn-primary" href="../kontakt">KONTAKT</a>

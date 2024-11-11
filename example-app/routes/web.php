@@ -15,6 +15,9 @@ Route::get('/hry', function () {
 Route::get('/kontakt', function () {
     return view('kontakt');
 });
+Route::get('/novinky', function () {
+    return view('novinky');
+});
 Route::get('/products', [ProductController::class, 'index'])->name ('products.index');
 
 Route::get('/dashboard', function () {

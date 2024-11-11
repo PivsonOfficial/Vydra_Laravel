@@ -34,11 +34,10 @@
 
   <div class="mb-3">
   <h3>Napište nám:</h3>
-    <textarea class="form-control is-invalid" id="validationTextarea" placeholder="Required example textarea" required style="padding-bottom:8%;"></textarea>
-    <div class="invalid-feedback">
-        Zde napište co máte na srdci.
+    <textarea class="form-control is-invalid" id="validationTextarea" placeholder="Zde napište co máte na srdci" required style="padding-bottom:8%;"></textarea>
     </div>
-    </div>
+    <button class="btn btn-lg btn-success" type="submit" style="background-color:#141313">Odeslat</button>
+
     <hr>
 </form>
 <div class="col">
