@@ -20,9 +20,30 @@
 <section style="margin-left:13%">
 
 <div class="container mt-4 " style="padding-top:4%; padding-bottom:8%; color: White;">
-    <div style="padding-left:1%; padding-bottom:1%" class="row">
-        <div>  
+    <div style="padding-left:1%; padding-bottom:1%" class="row container">
+        <div class="row">  
+
+        <div class="container" style="padding-right:15.5%   ; padding-bottom:2%">      
+                        <div>
+                            <form>
+                                <div class="card-body row no-gutters">
+                                    <div>
+                                        <i class="fas fa-search h4 text-body"></i>
+                                    </div>
+                                    <div class="col">
+                                        <input class="form-control form-control-lg form-control-borderless" style="background-color:#141313; color: white;" type="search" placeholder="Hledej...">
+                                    </div>
+                                    <div class="col-auto">
+                                        <button class="btn btn-lg btn-success" type="submit" style="background-color:#141313">Hledat</button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+</div>
+
             <h1>HRY</h1>
+            
+           
         </div>
 
 </div>

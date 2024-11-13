@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mapa Chánova</title>
-    <script src="https://maps.googleapis.com/maps/api/js?key=kkk"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=GoogleAPI"></script>
     <style>
         #map {
             height: 500px; 

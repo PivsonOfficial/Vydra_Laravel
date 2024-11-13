@@ -20,7 +20,7 @@
     </button>
 
     <div class="collapse navbar-collapse justify-content-center" style="padding-right: 20%; font-size: 20px" id="navbarNav">
-      <ul class="navbar-nav"  style="padding-left: 100%;">
+      <ul class="navbar-nav">
         <li class="nav-item">
           <a class="nav-link text-white btn btn-primary" href="../hry">KNIHOVNA</a>
         </li>
@@ -33,23 +33,7 @@
       </ul>
     </div>
 
-    <div class="container">      
-                        <div>
-                            <form>
-                                <div class="card-body row no-gutters">
-                                    <div>
-                                        <i class="fas fa-search h4 text-body"></i>
-                                    </div>
-                                    <div class="col">
-                                        <input class="form-control form-control-lg form-control-borderless" style="background-color:#141313; color: white;" type="search" placeholder="Hledej...">
-                                    </div>
-                                    <div class="col-auto">
-                                        <button class="btn btn-lg btn-success" type="submit" style="background-color:#141313">Hledat</button>
-                                    </div>
-                                </div>
-                            </form>
-                        </div>
-</div>
+    
   </div>
 </nav>
 
